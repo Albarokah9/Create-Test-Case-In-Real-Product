@@ -57,4 +57,19 @@ Mengotomasi pengujian fungsi utama seperti:
 ---
 
 ## 📁 Struktur Folder
+Project/
+├── apk/
+│ └── HappyDayShopping.apk
+├── Test Suites/
+│ └── Suite Test
+├── Test Cases/
+│ └── Shop/
+│ ├── AddProductFlashSale
+│ └── New Products
+├── Object Repository/
+│ ├── Promotions/
+│ └── New Product/
 
+## 📌 Catatan
+
+Proyek ini ditujukan untuk keperluan portofolio pengujian mobile automation. Tidak untuk distribusi ulang tanpa izin.
