@@ -70,7 +70,7 @@ Project/
 ├── Object Repository/
 │   ├── Promotions/
 │   └── New Product/
-
+```
 ## 📌 Catatan
 
 Proyek ini ditujukan untuk keperluan portofolio pengujian mobile automation. Tidak untuk distribusi ulang tanpa izin.
