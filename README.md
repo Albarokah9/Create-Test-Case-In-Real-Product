@@ -57,18 +57,19 @@ Mengotomasi pengujian fungsi utama seperti:
 ---
 
 ## 📁 Struktur Folder
+```plaintext
 Project/
 ├── apk/
-│ └── HappyDayShopping.apk
+│   └── HappyDayShopping.apk
 ├── Test Suites/
-│ └── Suite Test
+│   └── Suite Test
 ├── Test Cases/
-│ └── Shop/
-│ ├── AddProductFlashSale
-│ └── New Products
+│   └── Shop/
+│       ├── AddProductFlashSale
+│       └── New Products
 ├── Object Repository/
-│ ├── Promotions/
-│ └── New Product/
+│   ├── Promotions/
+│   └── New Product/
 
 ## 📌 Catatan
 
